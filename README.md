@@ -13,7 +13,7 @@ We invite you to propose a change to this Handbook by opening a pull request or 
 1. About Aptible
 2. Where We're Headed
 3. Our Teams
-4. How We Work
+4. [How We Work](/how-we-work)
 5. Interviewing at Aptible
 6. Quickstart Guide
 7. Expense Policy and Procurement
