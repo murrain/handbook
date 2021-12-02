@@ -25,6 +25,8 @@ Aptible works on 2-3 week Sprints. Sprints generally start on Mondays and end on
 
 We typically extend the length of Sprints around holidays to account for time when our “office” is closed. We do not run a Sprint around major holidays (e.g. between Christmas and New Years).
 
+![Example cadence of a 2-week sprint.](images/sprint-cadence.png "Example cadence of a 2-week sprint.")
+
 | Day relative to Sprint Start | Item |
 | --- | --- |
 | **Sprint Kickoff**<br />Day -1 | * During all hands or async, leadership team provides any feedback/guidance on subsequent Sprint to “kick off” Sprint planning |
