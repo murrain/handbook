@@ -6,6 +6,7 @@ Aptible is a remote organization, and much of our work occurs asynchronously. Wo
 Aptible will never build onerous or rigid sprint and project processes--it’s just not in our DNA. But, we have designed our **Aptible Sprint and Project Management (“ASPM”)** processes to help us realize some key benefits:
 
 | Challenge | ASPM Benefit |
+| --- | --- |
 | Hard to see how my work fits in with broader company goals | Create alignment by clearly connecting individual units of work (Stories) with company strategic goals (Milestones) through Epics |
 | Hard to know what everyone else is working on | Drive clarity by enforcing a Sprint structure and Sprint-planning process where we clearly lay out the Stories that will be completed within a Sprint, and keep those Stories up to date |
 | Easy to get distracted by new ideas or initiatives | Enforce focus by ensuring all work is clearly documented in our project management system rather than via Slack conversations/threads |
