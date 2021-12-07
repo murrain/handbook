@@ -37,15 +37,49 @@ We typically extend the length of Sprints around holidays to account for time wh
 | **Sprint Close**<br />Day 10/15 | * On the last day of Sprint, each team shows the progress, learnings, and outcomes from the Sprint |
 | **Sprint Retro**<br /> Day +2 | * A few days after the Sprint Close, Retro the previous Sprint live to collect feedback and discuss how we can improve |
 
+## Project Management Rules
+These rules are what Aptible has agreed to with respect to defining and tracking work.
+
+* Stories vs. Epics vs. Milestones vs. Tasks
+	* **Stories** are typically the smallest unit of work that we use at Aptible. What's a Story?
+		* Atlassian defines Stories as one simple narrative; Shortcut defines Stories as the basic unit of work.
+		* A Story must be achievable within a Sprint; if it can't be, it should be broken into smaller Stories associated with an Epic.
+		* Examples of a Story might be:
+			* `Write the Q4 customer newsletter`
+			* `Update IAM permissions so that the restart operation works`
+			* `Research tradeoffs of EKS`
+		* A Story must be associated with a Sprint OR have a deadline or both
+		* A Story must have an owner
+		* A Story must have an Epic, unless purely operational/transitory and not clearly relevant to broader company goals
+	* **Epics** are collections of Stories that make up a broader group of work. Epics can be thought of a Projects.
+		* Examples of Epcis might be:
+			* `Year-end customer comms`
+			* `20.04 rollout`
+			* `Any Cloud prototyping`
+		* An Epic has a status
+		* An Epic has start/end dates
+		* An Epic has an assigned owner(s) and team
+		* An Epic is usually associated with a Milestone
+		* An Epic spans multiple sprints
+	* **Milestones** are bigger strategic goals.
+		* Milestones cover a specific time period (have a start and end date)
+		* Today, Milestones are tied to Company-level goals, but in the future we can use Milestones for more granular goal setting (e.g. team goals)
+	* **Tasks** are generally frowned upon but can be used for quick to do lists
+		* If you start collecting Tasks that require different ownership or due dates, it's time to split each into a Story (which fortunately Shortcut has a specific button for)
+		* If you associate all these Stories that were converted from Tasks to a specific Epic you will be able to track progress collectively across the Epic, using the Epic view
+* Process
+	* Teams should work together to define Stories and Epics
+	* Daily Updates: Individual Story and Epic owners are responsible for keeping status, start/end dates, comments, etc. updated.
+		** We ask for updates on In Progress work at least 1x per day
+		** It's also a good idea to at least 1x per day consider whether your work is appropriately represented in Shortcut. If it isn't, you should create additional Stories and Epics. If you are unsure, talk with your manager. 
+
+
+
 ## Project Management Guidelines
 These guidelines are just recommendations, not hard-and-fast rules. However, we believe that the closer we can align around these guidelines, the easier and more beneficial project management will be for Aptible and for each individual team member. Have a suggestion for how we can improve? Don’t be shy: open a PR or raise for discussion during our next Retro (or async via Slack).
 * Five minute rule. If something takes you more than 5 minutes, and it isn’t logged in Zendesk (e.g. a Zendesk ticket) or tracked in our CRM, there should be an associated Story or Stories in our Project Management tool. 
 	* Obviously not every 5 minute tasks deserves a Story, but this is a heuristic to evaluate when to create a Story vs. just to complete the work: ideally, any significant work would be documented and prioritized for future reflection/evaluation.
 	* For a specific controversial example: writing an email response that takes more than 5 minutes doesn’t feel especially relevant to track in a project management tool. But, if that email response is in a running thread with a customer where we are working through a topic that will require multiple rounds of followup to get to resolution, that should likely be managed through Zendesk or, if not, logged as a Story in Shortcut so we don’t lose track of the work.
-* Story definition. Every Story should be a unit of work achievable in less than 2 weeks (less than the length of a Sprint). Most Stories should be even more granular, likely achievable in a day or less of active work. The core idea is that each Story should be one clear unit of work: not so granular as to waste time with documenting, but not too broad to constitute something that will require contributions from many people or over a long period of time. With the exception of ideas or un-prioritized work, Stories should generally have:
-	* An associated Sprint or deadline or both
-	* An owner
-	* An Epic (just a collection of stories, representing a larger project or unit of work)
 * Daily Status Updates and Comments. At least 1x per business day, you should create any new and update active existing Stories and Epics: ensure that the State for each Story and Epic is current, and leave comments addressing your progress so anyone can see and follow along.
 * Limit the use of Subtasks. Use Subtasks sparingly - default to creating separate Stories under an Epic, so each Story can have a discrete deadline. Subtasks are fine for simple items, but often it is better to create separate Stories for discoverability and flexibility to set specific deadlines, owners, etc.
 
