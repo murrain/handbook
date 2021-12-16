@@ -72,8 +72,13 @@ These rules are what Aptible has agreed to with respect to defining and tracking
 	* Daily Updates: Individual Story and Epic owners are responsible for keeping status, start/end dates, comments, etc. updated.
 		** We ask for updates on In Progress work at least 1x per day
 		** It's also a good idea to at least 1x per day consider whether your work is appropriately represented in Shortcut. If it isn't, you should create additional Stories and Epics. If you are unsure, talk with your manager. 
-
-
+* End of Sprint / Sprint Forecast
+	* If a Story is likely to remain unfinished at the end of the Sprint, and no later than 2 days before Sprint close, functional leads (or individual team members) should:
+		* Add the label `Likely Unfinished During Sprint`.
+		* Comment re: Estimated time remaining
+		* Comment re: Perceived blockers
+		* Comment re: When we should return to them (next sprint or some other time)
+	* During Sprint planning, we will move Stories with the label 'Likely Unfinished During Sprint' (and remove the label) as needed
 
 ## Project Management Guidelines
 These guidelines are just recommendations, not hard-and-fast rules. However, we believe that the closer we can align around these guidelines, the easier and more beneficial project management will be for Aptible and for each individual team member. Have a suggestion for how we can improve? Don’t be shy: open a PR or raise for discussion during our next Retro (or async via Slack).
