@@ -1,5 +1,7 @@
 [Read on aptible.com](https://www.aptible.com/handbook) --coming soon
 
+![Aptible Team Image](images/zoom.png "Aptible Team Image")
+
 # Aptible Employee Handbook
 The Aptible Handbook is our team’s guide for how we work together, and how we work with our community of developers and customers. It’s part social contract, part procedure manual. But as you will see, the Handbook is more the former rather than the latter.
 
@@ -10,10 +12,16 @@ This is where we try to share everything that, especially, prospective and new t
 We invite you to propose a change to this Handbook by opening a pull request or creating an issue. Over time, we aim to increase just how comprehensive this handbook is, and hope to continuously increase just how transparent and clear we can be about Aptible.
 
 ## Sections
-1. About Aptible
-2. Where We're Headed
-3. Our Teams
+1. [About Aptible](/about-aptible)
+2. [Mission & Strategy](mission-strategy.md)
+3. [Our Teams](/teams)
 4. [How We Work](/how-we-work)
-5. Interviewing at Aptible
-6. Quickstart Guide
+5. [Interviewing at Aptible](recruiting-process.md)
+6. [Quickstart Guide](onboarding.md)
 7. Expense Policy and Procurement
+
+## Contributing to this Handbook
+
+We welcome pull requests and issues, so feel free to contribute as you see fit.
+
+To keep the handbook organized, we use subfolders for each section and any subsections that require multiple pages. Each subfolder should have exactly one README.md acting as the index of the directory. Subfolders can also contain additional pages linked from the README.md. Alternatively, additional layers of hierarchy can be added when needed; for example, /about-aptible has many additional .md files linked from README.md as well as a subdirectory for security (/about-aptible/security) given that we need several separate pages to describe our security processes, compliance certifications, etc.
