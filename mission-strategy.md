@@ -13,17 +13,3 @@ Aptible helps developers do their best work by empowering them to use any cloud 
 
 ## Strategy
 We intend to deliver the best way for developers to provision, monitor, and test any resource in any cloud environment to ensure their infrastructure always meets regorous security and compliance requirements.
-
-## What does this mean?
-
-However, public infrastructure providers (AWS, GCP, Azure, as well as focused players such as MongoDB Atlas) rapidly expand the list of cloud resources provided to developers. This ever-expanding list of cloud infrastructure services provide an ever-improving 
-
-, we recognize that by only securing o. AWS Aurora might be the best available relational data store, while Google BigQuery or Snowflake might provide the best data warehouse capabilities. 
-
-This proliferation of tools is in many respects excellent for developers. However, securing an ever-expanding list of resources is a challenging task for most companies, and in some cases 
-
-Aptible is aiming to make it easy to provision resources in such a way that monitoring and testing of security controls should largely be abstracted away.
-
----
-
-###### This is a stub. Please open a pull request to help complete this article!
