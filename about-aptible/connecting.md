@@ -8,7 +8,7 @@
 
 * * * * *
 
-**An Introduction: The Johari Window**
+## An Introduction: The Johari Window
 
 The rest of this section frames our interpersonal communication in terms of **disclosure**and **feedback.** In order to understand what these two concepts mean, and why we're focusing on them, we'd like to start by introducing the **Johari Window**. The Johari Window was created by psychologists **Jo**seph Luft and **Harri**son Ingham, as a way of thinking about how our communication with each other can help us learn more about ourselves and others.
 

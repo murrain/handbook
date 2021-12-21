@@ -1,7 +1,7 @@
 # Communicatation Norms
 In order to communicate effectively with each other, we live by a set of communication norms. These norms are especially important for us at Aptible since most of our communication happens virtually, over Zoom, Slack, or email.
 
-**General Meeting Norms and Behaviors**
+## General Meeting Norms and Behaviors
 
 -   **Clarify Goals.** Articulate the purpose and desired outcome of the meeting. The goal of a meeting doesn't necessarily need to be a deliverable; it could be "brainstorm," "get aligned," etc. The only requirement is that every participant is clear and agreed on the goal(s). Distribute the agenda and/or deck, so participants can review in advance.
 
@@ -13,11 +13,12 @@ In order to communicate effectively with each other, we live by a set of communi
 
 * * * * *
 
-**Zoom Norms**
+## Zoom Norms
+We are aware after years of pandemic [Zoom fatigue](https://www.atlassian.com/blog/teamwork/science-just-confirmed-what-you-already-knew-zoom-fatigue-is-real) is becoming increasingly real. That said, our primary communication mechanism remains Zoom, and we are working to, wherever possible, update our norms so that they do not further Zoom fatigue among our team members.
 
--   **Include a Zoom link in calendar invites.** Please include both web link and phone dial-in information. If you use the [Zoom Scheduler](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle) Chrome Extension, you can easily add this information via the "Make it a Zoom Meeting" button on every Google Calendar event.
+-   **Include a Zoom link in calendar invites.** Please include both web link and phone dial-in information. Our built-in Zoom + Google Workspace integration should make it trivial to add a Zoom link to every calendar invitation.
 
--   **Turn on video by default.** Seeing each others' faces is important, because it directly [fosters empathy](https://hbr.org/2013/12/the-focused-leader).
+-   **Turn on video by default.** Seeing each others' faces is important, because it directly [fosters empathy](https://hbr.org/2013/12/the-focused-leader). 
 
 -   **Use one camera per person.** Even if you're in the same office as some of the other participants, try to use separate computers/cameras. This ensures everyone's face can be seen, and helps create a consistent experience for all participants, especially those who can't be co-located.
 
@@ -39,7 +40,7 @@ In order to communicate effectively with each other, we live by a set of communi
 
 * * * * *
 
-**Slack and Email Norms**
+## Slack and Email Norms
 
 -   **Send an email if something is must-read. Don't solely DM it in Slack.** We don't expect that everyone reads all Slack messages.
 

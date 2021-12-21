@@ -27,4 +27,4 @@ To keep the handbook organized, we use subfolders for each section and any subse
 <img src="images/dinner.png" alt="Aptible 2021 Onsite in San Diego - Team Dinner." width="200"/>
 
 *Aptible 2021 Onsite in San Diego - Team Dinner.
-From left-to-right, Aptible team members: Ann Guilinger, Ashley Matthew, Henry Hund, Alex Kubacki, Skyler Anderson, Keshav Vasudevan*
+<br />From left-to-right, Aptible team members: Ann Guilinger, Ashley Matthew, Henry Hund, Alex Kubacki, Skyler Anderson, Keshav Vasudevan*
