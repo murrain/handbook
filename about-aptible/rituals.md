@@ -16,3 +16,5 @@ See [Sprint & Project Management](/how-we-work/sprint-project-management) for mo
 |	Happy Hour 	 	|	Every 2 weeks and ad hoc			|	On weeks we do not have an all hands, generally mid-sprint, and ad hoc, we take 45-60 minutes to meet as a team on Zoom (usually over a coffee or beer) for casual conversation or games (we've done trivia and murder mystery)													|
 |	Onsite 	 	|	1-2x/year as a company<br />More frequently for individual teams			|	When global pandemics aren't a concern, the team meets all together at least once per year, usually in an interesting location. We use this as an opportunity to connect, work together on meaty topics such as strategic or values-based discussions, and spend some time "away from the desk" by eating at great restaurants and going seeing great sights. Our last Onsite was in Summer 2021 in San Diego, just before Delta became a concern.													|
 <img src="images/boat.jpg" alt="Aptible 2021 Onsite in San Diego - On a Boat!" width="450"/>
+
+*Aptible 2021 Onsite in San Diego - Boat Tour.*
