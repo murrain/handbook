@@ -2,7 +2,7 @@
 
 Aptible was founded in 2013 by Chas Ballew and Frank Macreery. By 2014, Aptible had achieved strong product-market fit for its infrastructure platform as a service. Over time, this platform as a service was branded many different names, but most customers know it simply as "Aptible."
 
-In 2018, Aptible raised a Series A (announced in 2019) from Maveric Ventures and Thrive Capital. At the time, the team and the investors agreed that Aptible should pursue a two-product strategy, and use the new funding to support investment in a nascent GRC platform called "Aptible Comply" (and previously known as Gridiron). 
+In 2018, Aptible raised a Series A (announced in 2019) from Maverick Ventures and Thrive Capital. At the time, the team and the investors agreed that Aptible should pursue a two-product strategy, and use the new funding to support investment in a nascent GRC platform called "Aptible Comply" (and previously known as Gridiron). 
 
 Though Aptible Comply had achieved early traction, true product-market fit proved elusive. Despite focusing most investment in the Comply business, the customer and revenue base for Aptible's core platform as a service grew significantly.
 

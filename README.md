@@ -12,11 +12,12 @@ This is where we try to share everything that, especially, prospective and new t
 ## Sections
 1. [About Aptible](/about-aptible)
 2. [Mission & Strategy](mission-strategy.md)
-3. [Our Teams](/teams)
-4. [How We Work](/how-we-work)
-5. [Interviewing at Aptible](recruiting-process.md)
-6. [Quickstart Guide](onboarding.md)
-7. Expense Policy and Procurement
+3. [Goals](/how-we-work/goal-setting.md)
+4. [Our Teams](/teams)
+5. [How We Work](/how-we-work)
+6. [Interviewing at Aptible](recruiting-process.md)
+7. [Quickstart Guide](onboarding.md)
+8. Expense Policy and Procurement
 
 ## Contributing to this Handbook
 

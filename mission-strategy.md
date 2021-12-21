@@ -12,4 +12,4 @@ With this backdrop, we recognize a significant opportunity for Aptible: in order
 Aptible helps developers do their best work by empowering them to use any cloud infrastructure securely.
 
 ## Strategy
-We intend to deliver the best way for developers to provision, monitor, and test any resource in any cloud environment to ensure their infrastructure always meets regorous security and compliance requirements.
+We intend to deliver the best way for developers to provision, monitor, and test any resource in any cloud environment to ensure their infrastructure always meets rigorous security and compliance requirements.
