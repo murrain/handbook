@@ -25,7 +25,7 @@ We welcome pull requests and issues, so feel free to contribute as you see fit.
 
 To keep the handbook organized, we use subfolders for each section and any subsections that require multiple pages. Each subfolder should have exactly one README.md acting as the index of the directory. Subfolders can also contain additional pages linked from the README.md. Alternatively, additional layers of hierarchy can be added when needed; for example, /about-aptible has many additional .md files linked from README.md as well as a subdirectory for security (/about-aptible/security) given that we need several separate pages to describe our security processes, compliance certifications, etc.
 
-<img src="images/dinner.png" alt="Aptible 2021 Onsite in San Diego - Team Dinner." width="200"/>
+<img src="images/dinner.png" alt="Aptible 2021 Onsite in San Diego - Team Dinner." width="450"/>
 
 *Aptible 2021 Onsite in San Diego - Team Dinner.
 <br />From left-to-right, Aptible team members: Ann Guilinger, Ashley Matthew, Henry Hund, Alex Kubacki, Skyler Anderson, Keshav Vasudevan*
