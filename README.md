@@ -1,6 +1,6 @@
 [Read on aptible.com](https://www.aptible.com/handbook) --coming soon
 
-![Aptible Team Image](images/zoom.png "Aptible Team Image")
+![Aptible Team Image](/images/zoom.png "Aptible Team Image")
 
 # Aptible Employee Handbook
 The Aptible Handbook is our team’s guide for how we work together, and how we work with our community of developers and customers. It’s part social contract, part procedure manual. But as you will see, the Handbook is more the former rather than the latter.

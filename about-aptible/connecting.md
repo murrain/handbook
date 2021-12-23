@@ -12,7 +12,7 @@
 
 The rest of this section frames our interpersonal communication in terms of **disclosure**and **feedback.** In order to understand what these two concepts mean, and why we're focusing on them, we'd like to start by introducing the **Johari Window**. The Johari Window was created by psychologists **Jo**seph Luft and **Harri**son Ingham, as a way of thinking about how our communication with each other can help us learn more about ourselves and others.
 
-![Johari Window](images/Johari_Window.png)
+![Johari Window](/images/Johari_Window.png)
 
 [*Johari Window*](https://en.wikipedia.org/wiki/Johari_window)
 
@@ -70,7 +70,7 @@ At work, there is utility in all five levels. However, most of us avoid levels 4
 
 Fort Light Feelings Chart and "Emotional Precision"
 
-![Feelings Chart](images/Using_the_Feelings_Chart.jpg)
+![Feelings Chart](/images/Using_the_Feelings_Chart.jpg)
 
 [The Feelings Chart](https://drive.google.com/file/d/1d77vcqutGbG2OWxPwCcIoX6I4eFXz_pE/view) is a helpful way to connect with our emotions in order to more effectively use them in disclosure. By referring to the Feelings Chart when we're communicating with each other, we can practice articulating more precisely how we're feeling. As a result, we'll be better able to connect with each other, grow as a team, and empower ourselves to solve the hardest challenges we're facing.
 
@@ -102,7 +102,7 @@ In order to give and receive feedback effectively, we use a few principles --- "
 
 ### "Minding the Net"
 
-![The Net](images/The_Net.png)
+![The Net](/images/The_Net.png)
 
 "The Net" represents a boundary that we strive to respect whenever giving feedback to a teammate. The core ideas behind the net are:
 

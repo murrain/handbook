@@ -4,7 +4,7 @@ Aptible uses [Shortcut](https://www.shortcut.com) for project management.
 ## The Roadmap View
 We use Shortcut to allow us to see progress at the Company level (The [Roadmap view](https://app.shortcut.com/aptible/roadmap?view=quarters)) as well as to zoom into individual units of work (aka Stories and Epics).
 
-![Roadmap View](images/shortcut-roadmap.png "Roadmap View")
+![Roadmap View](/images/shortcut-roadmap.png "Roadmap View")
 
 This zooming in and out is why, as described in the Guidelines section above, we seek to define Stories granularly, associate them with Epics.
 
@@ -13,11 +13,11 @@ This zooming in and out is why, as described in the Guidelines section above, we
 
 [The Epics index](https://app.shortcut.com/aptible/epics) will show all Epics and allow you to use filters to, for example, find all Epics for which you are the owner.
 
-![Filtered Epic Index](images/shortcut-filtered-epic-view.png "Filtered Epic Index")
+![Filtered Epic Index](/images/shortcut-filtered-epic-view.png "Filtered Epic Index")
 
 Clicking on a specific Epic will show all Stories related to that Epic, and will show an option for Creating a Story within an Epic, if new Stories are needed.
 
-![Epic Show](images/shortcut-epic-show-page.png "Epic Show page")
+![Epic Show](/images/shortcut-epic-show-page.png "Epic Show page")
 
 ## Your Dashboard aka "Home"
 [Your Dashboard](https://app.shortcut.com/aptible/dashboard) lists all stories you are assigned to, making it easy for you to find those that you need to make progress on or update. In the screenshot below, note the “Upcoming Due Dates” list showing tasks that are overdue and in need of an update.
