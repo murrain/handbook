@@ -5,7 +5,7 @@ As a remote team, setting clear plans and executing against them is critical. We
 ### Sprints
 Aptible works in 2 and 3 week sprints. Sprints have a cadence as well as a number of associated meetings, beginning with Planning and culminating in a Retro.
 
-See [Sprint & Project Management](/how-we-work/sprint-project-management) for more on our Sprint process.
+See [Sprint & Project Management](/how-we-work/sprint-project-management.md) for more on our Sprint process.
 
 ## Regular Team Meetings
 |	Meetings 	 	|	Frequency			|	Purpose													|

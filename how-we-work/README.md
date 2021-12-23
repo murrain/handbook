@@ -12,4 +12,4 @@ Focus and leverage are foundational concepts to how we operate. We create focus 
 ## In this section
 1. [Goal Setting](goal-setting.md)
 2. [Communication Norms](communicating.md)
-3. [Sprint and Project Management](/how-we-work/sprint-project-management/)
+3. [Sprint and Project Management](/how-we-work/sprint-project-management.md)

@@ -11,4 +11,4 @@ Though we've been able to operate with such a lean team for so long, our first f
 2. [Values](values.md)
 3. [Culture: Connecting](connecting.md)
 4. [Team Rituals](rituals.md)
-5. [Security](/about-aptible/security)
+5. [Security](security.md)
