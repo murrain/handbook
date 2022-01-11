@@ -1,7 +1,7 @@
 # Talent Philosophy
 Aptible's has an ambitious [mission and strategy](/mission-strategy.md) that we cannot achieve without a highly talented and motivated team.
 
-We've always endeavored to attract and retain the best possible team members. We are writing down our philosophies on Talent Density and Compensation to help current and prospective team members understand how we think about our team, and how we compensate it.
+We've always endeavored to attract and retain the best possible team members. We are writing down our philosophies on Talent Density and Compensation to help current and prospective team members understand how we think about our team, and how we compensate it. 
 
 ## Talent Density
 We won't achieve our mission, or really anything of any importance, without a highly talented and motivated team. We seek to attract and retain the best possible team members. We look for team members who embody our [values](values.md), who will [drive](https://www.linkedin.com/pulse/drivers-vs-passengers-frank-slootman/) Aptible's success, and will be great colleagues to collaborate with.
@@ -18,6 +18,8 @@ And, we believe, high talent density companies are more likely to create and del
 We have lots of ideas about how to continuously improve our talent density, but with just over a dozen employees and needing to significantly grow our team quickly, the most important thing to focus on is attracting (and retaining) the highest talent individuals.
 
 ## Compensation Philosophy
+We believe that having a transparent and highly competitive compensation philosophy is the only way we'll be able to attract great team members and retain them.
+
 Aptible's compensation philosophy is designed to be simple, transparent, and an effective tool for creating a high talent density team. We update our compensation philosophy as the needs of the business change. Our compensation process is based on industry-standard data sources, and seeks to ensure we are always paying our employees an appropriate market rate at all times.
 
 ### Compensation Packages
@@ -41,7 +43,7 @@ For Aptible, personal market means:
 * Level (ex. [Option Impact leveling](https://www.optionimpact.com/partials/userGuide/jobLevelUG.html))
 * Founding status (founder / non founder)
 
-When there is no clear comparable job title in the data set (e.g. Developer Relations) or sample sizes are small, we may average together data from more than one job title (Software Engineering and Marketing).
+When there is no clear comparable job title in the data set (e.g. Developer Relations) or sample sizes are small, we may average together data from more than one job title (for DevRel: Software Engineering and Marketing).
 
 ### Our Market
 Aptible's market consists of:
