@@ -1,7 +1,7 @@
 # Goal Setting (OKRs)
 
 ## Most recent OKRs
-* [2022 Q1 OKRs](https://docs.google.com/document/d/1yQr7RrsM8Zl739SfMMpsQn9l8mjnwaqz3cKrkbKbg04/edit#)
+* [2022 Q1 OKRs](https://docs.google.com/presentation/d/1HS2pN-kaTLsdeDxGtL-EUbnJAY1zt5dhTashjQC60hI/edit#slide=id.g109baf8729f_0_250)
 
 ### Our Hiring Roadmap
 * [2022 Hiring Roadmap](https://docs.google.com/spreadsheets/d/1NbjgYMsgVk8LqGED1y_dzXbo1QuCMi5Qi4b06uKoND4/edit#gid=0)
