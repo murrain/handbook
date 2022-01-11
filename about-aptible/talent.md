@@ -18,9 +18,22 @@ And, we believe, high talent density companies are more likely to create and del
 We have lots of ideas about how to continuously improve our talent density, but with just over a dozen employees and needing to significantly grow our team quickly, the most important thing to focus on is attracting (and retaining) the highest talent individuals.
 
 ## Compensation Philosophy
-Aptible's compensation philosophy is designed to be simple, transparent, and an effective tool for creating a high talent density team. We update our compensation philosophy as the needs of the business change. Our compensation process is based on industry-standard data sources, and seeks to ensure we are always paying our employees an appropriate market rate at any time.
+Aptible's compensation philosophy is designed to be simple, transparent, and an effective tool for creating a high talent density team. We update our compensation philosophy as the needs of the business change. Our compensation process is based on industry-standard data sources, and seeks to ensure we are always paying our employees an appropriate market rate at all times.
 
+### Compensation Packages
+Compensation at Aptible consists of:
+* Base Salary (+ Commission for some roles, but not most roles)
+* Employee Equity
+* Professional Development Budget
+* Hardware, Software, and Office Setup
+* Unlimited Vacation Policy
+* Paid Parental Leave (14 Weeks for All Parents)
+* Fully Remote Team: Work from Anywhere in U.S. Pacific-Eastern Time Zones
+
+### Base Salary
 Aptible's goal is that 100% of our employees' total compensation is in line with [X]th percentile for their personal market and Aptible's market.
+
+For most employees, Base Salary at Aptible is equivalent to Total Cash Compensation according to benchmarks. Save for a few select roles, Aptible does not use bonus compensation based on performance, opting instead to reward employees with generous top of market salaries in exchange for the expectation that every employee will make significant contributions to Aptible's success.
 
 ### Personal Market
 For Aptible, personal market means:
@@ -47,7 +60,7 @@ Aptible uses [Option Impact](https://www.optionimpact.com) and Pave (https://www
 3. We average together total compensation (base + discretionary bonus) from each source, using the filters described above
 4. We take the [greater] of the two sources and use that as the target compensation
 
-### Timeline
+#### Compensation Review Timing
 Each of the following trigger a compensation review:
 
 * Creation of a new role
@@ -56,4 +69,4 @@ Each of the following trigger a compensation review:
 * At least 1-2x per year otherwise
 * Employee request
 
-Employees are encouraged to collect their own compensation data (e.g. comparable company job descriptions with comp data, offers, etc.). However, since we target [X]th percentile, we generally rely on our data sources and can't promise to match other job offers.
+If employees believe the market salary for their role has changed, they should collect their own compensation data (e.g. comparable company job descriptions with comp data, offers, etc.) to share with their manager and request a compensation review. However, since we target [X]th percentile, we generally rely on data sources with larger samples sizes, we can't promise to match every new input. That said, new data points will be helpful in verifying our data sources.
