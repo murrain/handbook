@@ -15,10 +15,10 @@ We won't achieve our mission, or really anything of any importance, without a hi
 
 And, we believe, high talent density companies are more likely to create and deliver more valuable products to a wider customer base than those with average or low talent density.
 
-We have lots of ideas about how to continuously improve our talent density, but with just over a dozen employees and needing to significantly grow our team quickly, the most important thing to focus on is attracting (and retain) the highest talent individuals.
+We have lots of ideas about how to continuously improve our talent density, but with just over a dozen employees and needing to significantly grow our team quickly, the most important thing to focus on is attracting (and retaining) the highest talent individuals.
 
 ## Compensation Philosophy
-Aptible's compensation philosophy is designed to be simple, transparent, and an effective tool for creating a high talent density team. We update our compenssation philosophy as the needs of the business change. Our compensation process is based on industry-standard data sources, and seeks to ensure we are always paying our employees an appropriate market rate at any time.
+Aptible's compensation philosophy is designed to be simple, transparent, and an effective tool for creating a high talent density team. We update our compensation philosophy as the needs of the business change. Our compensation process is based on industry-standard data sources, and seeks to ensure we are always paying our employees an appropriate market rate at any time.
 
 Aptible's goal is that 100% of our employees' total compensation is in line with [X]th percentile for their personal market and Aptible's market.
 
