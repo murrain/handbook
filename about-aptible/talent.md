@@ -52,7 +52,7 @@ Aptible's market consists of:
 We may update the definition of comparable companies as Aptible grows.
 
 ### Data Sources
-Aptible uses [Option Impact](https://www.optionimpact.com) and Pave (https://www.pave.com). We may adopt new data sources in the future.
+Aptible uses [Option Impact](https://www.optionimpact.com) and [Pave](https://www.pave.com). We may adopt new data sources in the future.
 
 ### Compensation Review Process
 1. We download applicable salary data from our data sources
