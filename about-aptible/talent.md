@@ -33,7 +33,7 @@ Compensation at Aptible consists of:
 * Fully Remote Team: Work from Anywhere in U.S. Pacific-Eastern Time Zones
 
 ### Base Salary
-Aptible's goal is that 100% of our employees' total compensation is in line with [X]th percentile for their personal market and Aptible's market.
+Aptible's goal is that 100% of our employees' total compensation is in line with 90th percentile for their personal market and Aptible's market.
 
 For most employees, Base Salary at Aptible is equivalent to Total Cash Compensation according to benchmarks. Save for a few select roles, Aptible does not use bonus compensation based on performance, opting instead to reward employees with generous top of market salaries in exchange for the expectation that every employee will make significant contributions to Aptible's success.
 
@@ -95,4 +95,4 @@ Each of the following trigger a compensation review:
 * At least 1x per year otherwise
 * Employee request
 
-If employees believe the market salary for their role has changed, they should collect their own compensation data (e.g. comparable company job descriptions with comp data, offers, etc.) to share with their manager and request a compensation review. However, since we target [X]th percentile, we generally rely on data sources with larger samples sizes, we can't promise to match every new input. That said, new data points will be helpful in verifying our data sources.
+If employees believe the market salary for their role has changed, they should collect their own compensation data (e.g. comparable company job descriptions with comp data, offers, etc.) to share with their manager and request a compensation review. However, since we target 90th percentile, we generally rely on data sources with larger samples sizes, we can't promise to match every new input. That said, new data points will be helpful in verifying our data sources.
