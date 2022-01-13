@@ -83,8 +83,8 @@ We perform similar analysis for Managers through C-Level roles to determine appr
 ### Compensation Review Process
 1. We download applicable salary data from our data sources
 2. We collect leveling information from managers (e.g. managers define what level each team members is performing or expected to perform at)
-3. We average together total compensation (base + discretionary bonus) from each source, using the filters described above
-4. We take the [greater] of the two sources and use that as the target compensation
+3. We review each source and determine if one of or some combination of sources is the best data set to use
+4. Once we determine the most competitive compensation offer, we share the data with the employee. We share: level, comp for their level and the other levels for their role, and what source or sources we used to determine the compensation.
 
 #### Compensation Review Timing
 Each of the following trigger a compensation review:
