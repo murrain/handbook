@@ -65,7 +65,7 @@ For every role, we generally select one source. After reviewing the data, it som
 
 As of the last teamwide compensation review, January 14, 2022, we've selected the following sources for individual contributor roles:
 
-**Individual Contributor Job Levels**
+#### Individual Contributor Job Levels
 
 | Job Family                       | Primary Source                    | Market        | Levels | Rationale                                                                                                                                                                        |
 |----------------------------------|-----------------------------------|---------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -77,7 +77,7 @@ As of the last teamwide compensation review, January 14, 2022, we've selected th
 | Customer Reliability Engineering | Pave (Technical Support Engineer) | All companies | 1-4    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent. Levels after L4 are likely when someone moves into a manager/director role. |
 | Product Management               | Pave                              | All companies | 2-5    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent. Levels after L5 are likely when someone moves into a manager/director role. |
 
-**Manager, Director, Executive Job Levels**
+#### Manager, Director, Executive Job Levels
 We perform similar analysis for Managers through C-Level roles to determine appropriate compensation.
 
 ### Compensation Review Process
