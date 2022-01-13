@@ -20,7 +20,7 @@ We have lots of ideas about how to continuously improve our talent density, but 
 ## Compensation Philosophy
 We believe that having a transparent and highly competitive compensation philosophy is the only way we'll be able to attract great team members and retain them.
 
-Aptible's compensation philosophy is designed to be simple, transparent, and an effective tool for creating a high talent density team. We update our compensation philosophy as the needs of the business change. Our compensation process is based on industry-standard data sources, and seeks to ensure we are always paying our employees an appropriate market rate at all times.
+Aptible's compensation philosophy is designed to be simple, transparent, and an effective tool for creating a high talent density team. We update our compensation philosophy as the needs of the business change. Our compensation process is based on industry-standard data sources, and seeks to ensure we are always paying our employees a highly competitive market rate at all times.
 
 ### Compensation Packages
 Compensation at Aptible consists of:
@@ -40,13 +40,18 @@ For most employees, Base Salary at Aptible is equivalent to Total Cash Compensat
 ### Personal Market
 For Aptible, personal market means:
 * Job Title
-* Level (ex. [Option Impact leveling](https://www.optionimpact.com/partials/userGuide/jobLevelUG.html))
+* Level (ex. Option Impact leveling and Pave leveling, side-by-side)
 * Founding status (founder / non founder)
+
+![Leveling](/images/levels.png)
+_Option Impact and Pave levels_
 
 When there is no clear comparable job title in the data set (e.g. Developer Relations) or sample sizes are small, we may average together data from more than one job title (for DevRel: Software Engineering and Marketing).
 
 ### Our Market
-Aptible's market consists of:
+Aptible competes the entire market of software companies for talent. This is especially true for software engineering. As a result, for individual contributor roles Aptible benchmarks compensation against all companies.
+
+Executive roles are a bit different. Because Aptible is still small (but growing fast), it's very different to be the CTO of Aptible vs. being the CTO at Netflix. For that reason, we pay executives using comparables based on companies like Aptible. For Executives, we draw data from:
 * Companies that sell enterprise software
 * Companies with similar revenue
 * Companies with similar estimated market valuations
@@ -55,6 +60,25 @@ We may update the definition of comparable companies as Aptible grows.
 
 ### Data Sources
 Aptible uses [Option Impact](https://www.optionimpact.com) and [Pave](https://www.pave.com). We may adopt new data sources in the future.
+
+For every role, we generally select one source. After reviewing the data, it sometimes become obvious that one source is more relevant than another due to one source having poor sample sizes or discrepancies in data; at those times, it's obvious which source to select. If necessary, we will search for other data to help inform whether Pave or Option Impact.
+
+As of the last teamwide compensation review, January 14, 2022, we've selected the following sources for individual contributor roles:
+
+**Individual Contributor Job Levels**
+
+| Job Family                       | Primary Source                    | Market        | Levels | Rationale                                                                                                                                                                        |
+|----------------------------------|-----------------------------------|---------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Software Engineer                | Pave                              | All companies | 1-6    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent.                                                                             |
+| Customer Success                 | Pave                              | All companies | 2-4    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent. Levels after L4 are likely when someone moves into a manager/director role. |
+| Business Operations              | Pave                              | All companies | 2-5    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent. Levels after L5 are likely when someone moves into a manager/director role. |
+| Finance                          | Pave                              | All companies | 2-4    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent. Levels after L4 are likely when someone moves into a manager/director role. |
+| Technical Support                | Pave (Customer Service & Support) | All companies | 1-4    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent. Levels after L4 are likely when someone moves into a manager/director role. |
+| Customer Reliability Engineering | Pave (Technical Support Engineer) | All companies | 1-4    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent. Levels after L4 are likely when someone moves into a manager/director role. |
+| Product Management               | Pave                              | All companies | 2-5    | Pave is more up-to-date with rapidly changing market. We are competing in one big market for talent. Levels after L5 are likely when someone moves into a manager/director role. |
+
+**Manager, Director, Executive Job Levels**
+We perform similar analysis for Managers through C-Level roles to determine appropriate compensation.
 
 ### Compensation Review Process
 1. We download applicable salary data from our data sources
@@ -66,9 +90,9 @@ Aptible uses [Option Impact](https://www.optionimpact.com) and [Pave](https://ww
 Each of the following trigger a compensation review:
 
 * Creation of a new role
-* Significant market changes (e.g. the great resignation)
+* Significant market changes (e.g. [the great resignation](https://hbr.org/2021/09/who-is-driving-the-great-resignation))
 * Significant role changes due to outperformance or title promotion
-* At least 1-2x per year otherwise
+* At least 1x per year otherwise
 * Employee request
 
 If employees believe the market salary for their role has changed, they should collect their own compensation data (e.g. comparable company job descriptions with comp data, offers, etc.) to share with their manager and request a compensation review. However, since we target [X]th percentile, we generally rely on data sources with larger samples sizes, we can't promise to match every new input. That said, new data points will be helpful in verifying our data sources.
