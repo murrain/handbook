@@ -9,6 +9,7 @@ Though we've been able to operate with such a lean team for so long, our first f
 ## In this section
 1. [History](history.md)
 2. [Values](values.md)
-3. [Culture: Connecting](connecting.md)
-4. [Team Rituals](rituals.md)
-5. [Security](security.md)
+3. [Culture: Talent & Compensation](talent.md)
+4. [Culture: Connecting](connecting.md)
+5. [Team Rituals](rituals.md)
+6. [Security](security.md)
