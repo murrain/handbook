@@ -1,4 +1,4 @@
-[Read on aptible.com](https://www.aptible.com/handbook) --coming soon
+**[Read on aptible.com](https://www.aptible.com/handbook)**
 
 ![Aptible Team Image](/images/zoom.png "Aptible Team Image")
 
