@@ -17,7 +17,6 @@ This is where we try to share everything that, especially, prospective and new t
 5. [How We Work](/how-we-work)
 6. [Interviewing at Aptible](recruiting-process.md)
 7. [Quickstart Guide](onboarding.md)
-8. Expense Policy and Procurement
 
 ## Contributing to this Handbook
 
