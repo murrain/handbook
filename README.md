@@ -16,7 +16,7 @@ This is where we try to share everything that, especially, prospective and new t
 4. [Our Teams](/teams)
 5. [How We Work](/how-we-work)
 6. [Interviewing at Aptible](recruiting-process.md)
-7. [Quickstart Guide](onboarding.md)
+7. [Team & Employee Empowerment](/team-empowerment)
 
 ## Contributing to this Handbook
 

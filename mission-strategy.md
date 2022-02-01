@@ -7,7 +7,6 @@ But, it's undeniable the pace of change occurring within cloud infrastructure. T
 
 With this backdrop, we recognize a significant opportunity for Aptible: in order to have the maximum impact, we must meet developers where they are by helping them to secure the cloud resources they select for a particular job, regardless of which cloud infrastructure provider.
 
-
 ## Mission
 Aptible helps developers do their best work by empowering them to use any cloud infrastructure securely.
 
