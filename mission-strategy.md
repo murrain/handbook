@@ -7,9 +7,8 @@ But, it's undeniable the pace of change occurring within cloud infrastructure. T
 
 With this backdrop, we recognize a significant opportunity for Aptible: in order to have the maximum impact, we must meet developers where they are by helping them to secure the cloud resources they select for a particular job, regardless of which cloud infrastructure provider.
 
-
 ## Mission
 Aptible helps developers do their best work by empowering them to use any cloud infrastructure securely.
 
 ## Strategy
-We intend to deliver the best way for developers to provision, monitor, and test any resource in any cloud environment to ensure their infrastructure always meets rigorous security and compliance requirements.
+Deliver the best way for developers at digital health startups with little to no DevSecOps expertise or capacity to provision, monitor, and test any resource in any cloud environment to ensure their infrastructure always meets rigorous security and compliance requirements. Then, figure out what it will take to provide value to developers at companies with various levels of DevSecOps expertise across various industries. 
