@@ -5,7 +5,7 @@ Our proprietary Platform as a Service has helped hundreds of companies pass cust
 
 But, it's undeniable the pace of change occurring within cloud infrastructure. The list of capabilities of the big public infrastructure providers (like AWS, GCP, Azure, and even more focused offerings like MongoDB Atlas) continues to expand, with ever-new ways to manage cloud applications and databases. AWS alone has more than _200_ services hosted in 80+ Availability Zones.
 
-With this backdrop, we recognize a significant opportunity for Aptible: in order to have the maximum impact, we must meet developers where they are by helping them to secure the cloud resources they select for a particular job, regardless of which cloud infrastructure provider.
+With this backdrop, we recognize a significant opportunity for Aptible: in order to have the maximum impact, we must meet developers where they are by helping them to secure the cloud resources they select for a particular job, regardless of which cloud infrastructure provider they choose.
 
 ## Mission
 Aptible helps developers do their best work by empowering them to use any cloud infrastructure securely.
