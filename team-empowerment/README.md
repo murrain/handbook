@@ -7,3 +7,4 @@
 3. [Home Office Budget](hardwarebudget.md)
 4. [Professional Development Budget](professional-development.md)
 5. [Paid Time Off: Open Vacation Policy](pto-policy.md)
+6. [Parental Leave Policy](parental-leave.md)
