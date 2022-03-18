@@ -16,7 +16,7 @@ For many reasons, especially security-related, we strongly encourage team member
 
 In general, we provide the latest hardware upgraded, within reason, for all employees. Screen size depends on availability and role.
 
-Our default configurations are:
+Some examples of laptop configurations are:
 
 * Technical / designer / engineer - Macbook Pro 14-16" M1 Max / 10 core CPU / 16-32 core GPU / 512GB RAM
 * Non-technical roles - Macbook Pro 14" M1 Max / 10 core CPU / 16-32 core GPU / 512GB RAM
