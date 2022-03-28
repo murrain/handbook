@@ -25,10 +25,11 @@ These are systems every team member, unless otherwise noted, will have access to
 * **15Five** - Performance management and feedback
 * **1Password** - Secure password management
 * **Amazon Business** - For purchases under the [Newptible](/hardwarebudget.md) or [Professional Development](/professional-devlopment.md) budgets
-* **Aptible** - For security trainings company-wide and for certain roles, also management of resources hosted on Aptible
+* **Aptible** - For security trainings company-wide and for technical roles, also management of resources hosted on Aptible
 * **Confluence** - Additional internal documentation
 * **Divvy** - Credit card and expense management
 * **Ethena** - Compliance training
+* **GitHub** - For access to `handbook-internal` and other repos company-wide and for technical roles, also for software development
 * **Google Workspace** - Productivity and collaboration; Gmail, G Drive, etc.
 * **Gong** - Call recording and analytics
 * **Jamf** - Device management for your Aptible Macbook and Aptible iPhone. You will accept an invite to enroll your devices but will otherwise not likely interact with Jamf frequently.
@@ -43,16 +44,16 @@ These are systems every team member, unless otherwise noted, will have access to
 
 ## Primary Slack Channels
 This is not intended to be an exhaustive list of all Slack channels as there are a number of #auto- channels, channels created temporarily for sprints/projects, private channels, etc. however this list covers the "staple" channels all team members should expect to be in or have access to.
-* **#customer-success** - where we discuss strategy, feedback, questions, troubleshooting, etc. for our existing customer base
+* **#customer-success** - where we discuss strategy, feedback, questions, troubleshooting and more for our existing customer base
 * **#general** - company-wide announcements and discussion
 * **#engineering** - where engineers discuss in-progress projects, share tips, respond to incidents, etc.
 * **#high-five** - an auto channel connected to 15Five, a tool we use for feedback
 * **#onboarding** - the place to raise and discuss any questions or feedback that may come up during your early days at Aptible
-* **#operations** - the place to raise questions or make requests of our Operations team (currently Henry, Taylor, & Yujie)
-* **#product-and-design** - where we discuss product and design changes, decisions, feedback from customers and prospects, etc.
-* **#sales-and-marketing** - where we discuss sales and marketing strategy, testing, etc.
-* **#security** - where we discuss security incidents and security requests such as increased access
-* **#whats-up** - casual chat, our "random"
+* **#operations** - where the Operations team (currently Henry, Taylor, & Yujie) collaborates, also the place to raise questions or make requests of our Operations team
+* **#product-and-design** - where we discuss product and design changes, decisions, feedback from customers and prospects and more
+* **#sales-and-marketing** - where we discuss sales and marketing strategy, testing, questions related to our sales and marketing stack and data, etc.
+* **#security** - the place to raise and discuss security incidents and requests such as increased permissions to sensitive systems
+* **#whats-up** - casual chat, our "random" channel
 
 
 ## Your First Few Weeks
@@ -79,17 +80,19 @@ Our shared goal is to complete all action items in your Onboarding Checklist by 
 * Watch the [Finance Brownbag](https://app.gong.io/call?id=4549731811283619078) to learn more about how Aptible operates from a financial standpoint.
 
 ##### By End of Week 2
-* Get ready for your AMA (to occur during your first or second company-wide meeting, dependent on timing of your start date). There's no need to formally prepare however People Ops (currently: Taylor & Yujie) will share a few questions with you (and sometimes a request for images) ahead of time so you can give them some thought. We've found it fun to share images with the team to enhance interactivity or when possible, get the team to guess your responses,
+* Get ready for your AMA (Ask Me Anything), to occur during your first or second company-wide meeting dependent on timing of your start date. There's no need to formally prepare however People Ops (currently: Taylor & Yujie) will share a few questions with you (and sometimes a request for images) ahead of time so you can give them some thought. We've found it fun to share images with the team to enhance interactivity and when possible, get the team to guess your responses!
 
 * Familiarize yourself with [Aptible Handbook](https://www.aptible.com/handbook/) and provide feedback to help us improve or better yet, submit a PR for suggested improvements directly!
 
-* Meet with 2-3 new coworkers outside of your direct team. Suggestions include our CEO, Frank Macreery, our COO, Henry Hund, a member of Operations if you're an engineer, an engineer if you're a member of Customer Success, etc.
+* Meet with 2-3 new coworkers outside of your direct team. Suggestions include our CEO, Frank Macreery, our COO, Henry Hund, a member of Customer Success if you're an engineer, an engineer if you're a member of Customer Success, etc.
 
 ##### By End of Week 3
-* Complete your first Shortcut story (may not necessarily be the first story you created)
+* Complete your first Shortcut story (may not necessarily be the first story you created).
 
 * (Temporarily on hold as we work to revamp the materials) Participate in Aptible 101 and Aptible 102, presentations led by members of the team designed to increase engagement, familiarize you with our history as a company, introduce you to our strategy and more.
 
 
 # Role-Specific Guides
-Additional guides specific to certain roles at Aptible will be posted in the near future.
+Additional guides specific to certain roles at Aptible will be posted in the near future. The `handbook-internal` repos is non-public, you will need to log in to GitHub in order to access.  
+
+* **Engineering**: [handbook-internal/engineering](https://github.com/aptible/handbook-internal/tree/main/engineering#engineering)
