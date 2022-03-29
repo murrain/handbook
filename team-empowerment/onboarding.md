@@ -14,7 +14,7 @@ We created this guide with the intent to organize onboarding around a central la
 [Role-Specific Guides](#role-specific-guides)
 
 ## Initial Setup
-In order to get started you'll need to have two things on-hand: your Aptible Macbook and an invitation to Okta which we use for access management (this should be in your personal inbox on or before your first day). Once your laptop has shipped, you will receive an email from our Operations team with tracking information as well as the Aptible New Hire Setup Guide which covers initial setup steps and a high-level overview of the onboarding process.
+In order to get started you'll need to have two things on-hand: your Aptible MacBook and an invitation to Okta which we use for access management (this should be in your personal inbox on or before your first day). Once your laptop has shipped, you will receive an email from our Operations team with tracking information as well as the Aptible New Hire Setup Guide which covers initial setup steps and a high-level overview of the onboarding process.
 
 Once Okta is set up you will be able to access your Aptible Gmail inbox where you will find other resources such as your personalized Onboarding Checklist, calendar invites to meet with members of the team, and invitations to access other systems including the below.
 
@@ -32,7 +32,7 @@ These are systems every team member, unless otherwise noted, will have access to
 * **GitHub** - For access to `handbook-internal` and other repos company-wide and for technical roles, also for software development
 * **Google Workspace** - Productivity and collaboration; Gmail, G Drive, etc.
 * **Gong** - Call recording and analytics
-* **Jamf** - Device management for your Aptible Macbook and Aptible iPhone. You will accept an invite to enroll your devices but will otherwise not likely interact with Jamf frequently.
+* **Jamf** - Device management for your Aptible MacBook and Aptible iPhone. You will accept an invite to enroll your devices but will otherwise not likely interact with Jamf frequently.
 * **Little Snitch** - Network monitoring. You will install and enter a license key to active but will otherwise not likely interact with Little Snitch frequently.
 * **Okta** - Access management
 * **Redash** - Analytics/BI
@@ -71,7 +71,7 @@ Our shared goal is to complete all action items in your Onboarding Checklist by 
 
 * Watch 1-2 recent All Hands calls (command + F search "All Hands" in [Gong](https://app.gong.io/home?workspace-id=2632804425585962651)). Decks are linked out from the event details of the bi-weekly recurring event in Google Calendar.
 
-* Watch the current product overview and new Anycloud product demo to familarize with the current state and future vision of Aptible.
+* Watch the current product overview (on the Aptible [homepage](https://www.aptible.com/)) and new [Anycloud product demo](https://www.loom.com/share/cc572e181992499d81f77f23611e072c) to familarize with the current state and future vision of Aptible.
 
 * Watch 1-2 recent customer discovery calls
 

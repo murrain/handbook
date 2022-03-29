@@ -7,54 +7,46 @@
 
 ## Laptop ordering process
 * People Ops / IT (currently: Taylor & Yujie) order laptops as soon as there is an accepted offer -or- an eligible employee has requested a new laptop
-* All orders are fulfilled through the [Apple ecommerece store](http://ecommerce.apple.com)
+* All orders are fulfilled through the [Apple Business Store](http://ecommerce.apple.com)
 * If we anticipate shipping delays, we may pre-order machines in advance of offers being accepted
-* If an existing machine is being refreshed, the employee is responsible for appropriate disposal of the old machine
+* If an existing machine is being refreshed, the employee is responsible for appropriate disposal of the old machine as [outlined below](#laptop-disposal)
 
 ## Laptop configurations
-For many reasons, especially security-related, we strongly encourage team members to use Apple hardware. By default, we will provide all team members with Apple laptops.
+For many reasons, especially security-related, we strongly encourage team members to use Apple hardware. By default, all team members are provided Apple laptops.
 
-In general, we provide the latest hardware upgraded, within reason, for all employees. Screen size depends on availability and role.
+In general, we provide all employees with the latest hardware within reason. Screen size depends on availability and role.
 
 Some examples of laptop configurations are:
 
-* Technical / designer / engineer - Macbook Pro 14-16" M1 Max / 10 core CPU / 16-32 core GPU / 512GB RAM
-* Non-technical roles - Macbook Pro 14" M1 Max / 10 core CPU / 16-32 core GPU / 512GB RAM
+* Technical / designer / engineer roles:
+ - MacBook Pro 14-16" M1 Pro-Max / 10-core CPU / 16-32-core GPU / 32GB RAM / 512GB SSD
+* Non-technical roles:
+ - MacBook Pro 14" M1 Pro / 10-core CPU / 14-core GPU / 16 GB RAM / 512GB SSD
 
-While we may provide used hardware for employees, we will not provide legacy (3+ year old hardware) and we seek to establish the above as our target configurations for all employees.
+While in some cases we may provide used hardware for employees, we will not provide legacy (3+ year old hardware) and we seek to establish the above as our target configurations for all employees.
 
-Our expectation is that, with the exception of screen size, the performance difference between these M1 Max machines will be negligible for most and possibly all employees. As a result, given that shipping delays have become extreme, we will choose specific specifications based on availability. If you need a large screen size for your work, but we are unable to procure 16" machines for you (or even if we are), we'll ensure you have a desktop monitor to supplement your machine.
+Our expectation is that any difference in performance between various configurations of the new M1 machines will be negligible for most and possibly all employees. As a result, given that shipping delays have become extreme, we may in some cases strategically select different configurations based on availability. If you feel that you need a particular confugiration, or something altogether different, please discuss with your hiring manager as early as possible noting that availability and shipping estimates will need to be considered in conjunction with your planned start date.
 
-If you feel strongly that you'd like a particular set of specifications, or something all together different from the above (e.g. a smaller machine for more portability), please discuss with your hiring manager. We will seek to accommodate specific requests, but shipping estimates and availability will dictate our ability to fulfill.
+Regardless of laptop screen size, all employees are eligible to purchase a desktop monitor under the Newptible Budget. If you have any questions or concerns reach out to your Manager or raise in #operations in Slack for discussion.
 
 ## Laptop Repair
 Employees can take laptops to any Apple store if repair is needed. If repair time is long (1+ days), please try to coordinate repairs with People Ops / IT so that we can provide a loaner laptop.
 
 ## Laptop Refresh
 * Employees are eligible to request a new laptop once their laptop reaches 3 years of use, regardless of the employee's tenure.
-* When refreshing a 3+ year old laptop, employees can choose to Donate or Buyback their machine.
+* When refreshing a 3+ year old laptop, employees can choose to donate or keep the laptop at no cost. Employees must coordinate with People Ops / IT (currently: Taylor & Yujie) to wipe the laptop. All laptops must be wiped prior to donating or keeping.
 
 ## Laptop Disposal
-If an employee is replacing their machine or is offboarding from Aptible, the employee is responsible for ensuring appropriate laptop disposal. All laptops will be wiped as part of the disposal process.
+If an employee is replacing their machine or is offboarding from Aptible, the employee is responsible for ensuring appropriate laptop disposal in coordination with People Ops / IT (currently: Taylor & Yujie) to wipe the laptop. All laptops must be wiped prior to disposal. There are three disposal options:
 
-The disposal options are:
+**Donate**: When employees are refreshing functional laptops that are 3+ years old, we strongly encourage donation to an acceptable partner charity. We will be working to create partnerships with appropriate charities. Donation must be planned and approved by People Ops / IT (currently: Taylor & Yujie). All laptops must be wiped prior to donating.
 
-1. Donation
-2. Buy back
-3. Return to Aptible
+**Buy back**: If an employee is offboarding with less than 1 year of tenure, the employee may elect to purchase the laptop at the current market value. Details will be provided as part of the employment termination process. All laptops must be wiped prior to purchase.
 
-### Donation
-When employees are refreshing functional laptops that are greater than 3 years old, we strongly encourage donation to an acceptable partner charity. We will be working to create partnerships with appropriate charities.
+**Return to Aptible**: If an employee is offboarding with less than 1 year of tenure and elects not to purchase the laptop -or- the employee has special approval to refresh a laptop that is still usable or less than 3 years old, the laptop must be returned to Aptible. Details and an easy-to-pack padded box and prepaid shipping label will be provided for laptop returns. All laptops must be wiped prior to returning to Aptible.
 
-Donation must be planned and approved by People Ops / IT (currently: Taylor & Yujie) All laptops will be wiped
-
-### Laptop buyback
-#### Offboarding
-* For employees offboarding from Aptible with less than 1 year of tenure, the laptop must be returned to Aptible -or- purchased at then current market value. Employees will receive details about purchasing or returning laptops as part of their employment termination agreement. All laptops will be wiped
-* For employees offboarding from Aptible with greater than 1 year of tenure, the employee can opt to keep the laptop at no cost. Employees will receive details about keeping or returning laptops as part of their employment termination agreement. All laptops will be wiped
-* For employees with greater than 1 year of tenure who are refreshing their laptop because it is greater than 3 years old, the employee can opt to keep the laptop at no cost. All laptops will be wiped
-
-### Returning to Aptible
-There are two cases when you will need to return your laptop to Aptible:
-* The laptop is usable but you are refreshing it for some approved reason
-* You are offboarding with less than 1 year of tenure and you opt out of purchasing the machine at the prevailing market price
+### Options When Offboarding
+* Employees offboarding with <1 year of tenure:
+  - The laptop must be returned to Aptible -or- purchased at the current market value. Details will be provided to you as part of the employment termination process. All laptops must be wiped prior to purchase or return.
+* Employees offboarding with >1 year of tenure:
+  - The employee can opt to donate or keep the laptop at no cost. Details will be provided to you as part of the employment termination process. All laptops must be wiped prior to donating or keeping.
