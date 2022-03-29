@@ -1,3 +1,6 @@
+# Aptible Culture
+
+## Connecting
 **Just because we work together primarily through Zoom, Slack, or via Email, doesn't mean we're not invested in improving how we work together. To do so, we invest in learning skills to help us connect with one another. Specifically, we have norms and core behaviors in the following areas related to connection.**
 
 -   **Disclosure**
@@ -110,7 +113,7 @@ In order to give and receive feedback effectively, we use a few principles --- "
 
 -   Similarly, the person receiving feedback has desires, goals, and intentions that the feedback giver cannot know.
 
--   In between the feedback giver and receiver, there are shared, observable behaviors. We like to use the metaphor of a video camera in describing these behaviors: **When giving feedback, the behavior you comment on should be something a video camera could have captured, something both you and the receiver can agree on.** 1) An example of something that's *not* an observable behavior is: "Doug was trying to micromanage me." 2) On the other hand, an example of an observable behavior is: "Doug said 'I want you to say [X] in your email to Maitreya...'" 
+-   In between the feedback giver and receiver, there are shared, observable behaviors. We like to use the metaphor of a video camera in describing these behaviors: **When giving feedback, the behavior you comment on should be something a video camera could have captured, something both you and the receiver can agree on.** 1) An example of something that's *not* an observable behavior is: "Doug was trying to micromanage me." 2) On the other hand, an example of an observable behavior is: "Doug said 'I want you to say [X] in your email to Maitreya...'"
 
 Fort Light expands on the metaphor of "The Net" like this:
 
@@ -126,7 +129,7 @@ To sum up how to avoid crossing over "The Net":
 
 ***When you said/did [****Behavior 🎥****], I felt [****Feeling Word****].***
 
-In order to respect "The Net," we recommend following the Feedback Formula above. 
+In order to respect "The Net," we recommend following the Feedback Formula above.
 
 Feedback Core Behaviors
 
@@ -172,7 +175,7 @@ For more detail on these core behaviors, or for a handy printable reference, see
 
 -   **Wait until cooldown, and prepare your feedback.** It may be helpful to write down what you're feeling, including notes on exactly what you observed (versus any "story" you created about your observations that might assume the other person's intent). The more clearly you can articulate exactly what the other person did/said, and exactly how it made you feel, the more powerful your feedback will be.
 
--   **Assume positive intent**. Feedback only works when the feedback giver and receiver start from a place of assuming mutual positive intent, and shared goals. 
+-   **Assume positive intent**. Feedback only works when the feedback giver and receiver start from a place of assuming mutual positive intent, and shared goals.
 
 -   **Clarify "blur words."** 1) When giving feedback, try to stick to the Feedback Formula, and try to make sure that what you "feel" is an actual emotion. In particular, avoid saying "I feel **like**" --- what follows this phrase usually isn't an emotion. 2) When receiving feedback, listen for blur words. Instead of feeling defensive when you hear them, ask the feedback giver to clarify what they mean.
 

@@ -1,7 +1,9 @@
-# Talent Philosophy
+# Aptible Culture
+
+## Talent & Compensation Philosophy
 Aptible's has an ambitious [mission and strategy](/mission-strategy.md) that we cannot achieve without a highly talented and motivated team.
 
-We've always endeavored to attract and retain the best possible team members. We are writing down our philosophies on Talent Density and Compensation to help current and prospective team members understand how we think about our team, and how we compensate it. 
+We've always endeavored to attract and retain the best possible team members. We are writing down our philosophies on Talent Density and Compensation to help current and prospective team members understand how we think about our team, and how we compensate it.
 
 ## Talent Density
 We won't achieve our mission, or really anything of any importance, without a highly talented and motivated team. We seek to attract and retain the best possible team members. We look for team members who embody our [values](values.md), who will [drive](https://www.linkedin.com/pulse/drivers-vs-passengers-frank-slootman/) Aptible's success, and will be great colleagues to collaborate with.

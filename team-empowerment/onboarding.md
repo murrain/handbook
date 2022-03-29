@@ -69,7 +69,7 @@ There are a handful of key tasks which must be completed by your first day at Ap
 Our shared goal is to complete all action items in your Onboarding Checklist by the end of your first week at Aptible unless otherwise noted. Beyond your Onboarding Checklist, there are a few other tasks to work through during your first week, outlined here.
 * Meet with your manager to discuss your initial projects and areas of focus and/or your 30/60/90 plan. Create your first story in Shortcut from your projects or areas of focus.
 
-* Watch 1-2 recent All Hands calls (command + F search "All Hands" in [Gong](https://app.gong.io/home?workspace-id=2632804425585962651)). Decks are linked out from the event details of the bi-weekly recurring event in Google Calendar.
+* Watch 1-2 recent All Hands calls in [Gong](https://app.gong.io/calls?workspace-id=2632804425585962651&query-id=1992243576695063550). Decks are linked out from the event details of the bi-weekly recurring event in Google Calendar.
 
 * Watch the current product overview (on the Aptible [homepage](https://www.aptible.com/)) and new [Anycloud product demo](https://www.loom.com/share/cc572e181992499d81f77f23611e072c) to familarize with the current state and future vision of Aptible.
 
@@ -93,6 +93,6 @@ Our shared goal is to complete all action items in your Onboarding Checklist by 
 
 
 # Role-Specific Guides
-Additional guides specific to certain roles at Aptible will be posted in the near future. The `handbook-internal` repos is non-public, you will need to log in to GitHub in order to access.  
+Additional guides specific to certain roles at Aptible will be posted in the near future. The `handbook-internal` repo is non-public, you will need to log in to GitHub in order to access.  
 
 * **Engineering**: [handbook-internal/engineering](https://github.com/aptible/handbook-internal/tree/main/engineering#engineering)
