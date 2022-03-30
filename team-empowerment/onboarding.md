@@ -13,7 +13,7 @@ We created this guide with the intent to organize onboarding around a central la
 [Your First Few Weeks](#your-first-few-weeks)  
 [Role-Specific Guides](#role-specific-guides)
 
-## Initial Setup
+## <a id="initial-setup"></a> Initial Setup
 
 Once your laptop has shipped, you will receive an email from our Operations team with tracking information as well as the Aptible New Hire Setup Guide which covers initial setup steps and a high-level overview of the onboarding process. In order to get started you'll need to have two things on-hand:
 * **Aptible MacBook** - should arrive within the week prior to your start date
@@ -24,11 +24,11 @@ Once Okta is set up you will be able to access your Aptible Gmail inbox where yo
 
 As soon as your laptop is set up and you have access to your Aptible inbox, locate the invitation from Jamf to enroll your laptop in device management per [Day 1](#day-1) requirements below.
 
-## Company-Wide Systems & Tools
+## <a id="company-wide-systems-&-tools"></a> Company-Wide Systems & Tools
 These are systems every team member, unless otherwise noted, will have access to, interact with, or need to set up.
 * **15Five** - Performance management and feedback
 * **1Password** - Secure password management
-* **Amazon Business** - For purchases under the [Newptible](/hardware-budget.md) or [Professional Development](/professional-devlopment.md) budgets
+* **Amazon Business** - For purchases under the [Newptible](hardware-budget.md) or [Professional Development](professional-development.md) budgets
 * **Aptible** - For security trainings company-wide and for technical roles, also management of resources hosted on Aptible
 * **Confluence** - Additional internal documentation
 * **Divvy** - Credit card and expense management
@@ -46,7 +46,7 @@ These are systems every team member, unless otherwise noted, will have access to
 * (If U.S. Based) **Vanguard** - 401k provider, eligibility begins immediately. You will be authorized to sign up on our account automatically shortly after first payroll but can be authorized sooner on request to People Ops (currently: Taylor & Yujie) if needed.
 * **Zoom** - Call hosting
 
-## Primary Slack Channels
+## <a id="primary-slack-channels"></a> Primary Slack Channels
 This is not intended to be an exhaustive list of all Slack channels as there are a number of #auto- channels, channels created temporarily for sprints/projects, private channels, etc. however this list covers the "staple" channels all team members should expect to be in or have access to.
 * **#customer-success** - where we discuss strategy, feedback, questions, troubleshooting and more for our existing customer base
 * **#general** - company-wide announcements and discussion
@@ -60,8 +60,8 @@ This is not intended to be an exhaustive list of all Slack channels as there are
 * **#whats-up** - casual chat, our "random" channel
 
 
-## Your First Few Weeks
-##### By End of Day 1
+## <a id="your-first-few-weeks"></a> Your First Few Weeks
+##### <a id="day-1"></a>  By End of Day 1
 There are a handful of key tasks which must be completed by your first day at Aptible:
 * As soon as your laptop is set up and you have access to your Aptible inbox, locate the invitation from Jamf to enroll your laptop in device management. Restart your laptop for Jamf to enable FileVault and other managed settings.
 
@@ -96,7 +96,7 @@ Our shared goal is to complete all action items in your Onboarding Checklist by 
 * (Temporarily on hold as we work to revamp the materials) Participate in Aptible 101 and Aptible 102, presentations led by members of the team designed to increase engagement, familiarize you with our history as a company, introduce you to our strategy and more.
 
 
-# Role-Specific Guides
+# <a id="role-specific-guides"></a> Role-Specific Guides
 Additional guides specific to certain roles at Aptible will be posted in the near future. The `handbook-internal` repo is non-public, you will need to log in to GitHub in order to access.  
 
 * **Engineering**: [handbook-internal/engineering](https://github.com/aptible/handbook-internal/tree/main/engineering#engineering)

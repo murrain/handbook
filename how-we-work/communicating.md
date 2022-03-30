@@ -1,4 +1,4 @@
-# Communicatation Norms
+# Communication Norms
 In order to communicate effectively with each other, we live by a set of communication norms. These norms are especially important for us at Aptible since most of our communication happens virtually, over Zoom, Slack, or email.
 
 ## General Meeting Norms and Behaviors
@@ -18,7 +18,7 @@ We are aware after years of pandemic [Zoom fatigue](https://www.atlassian.com/bl
 
 -   **Include a Zoom link in calendar invites.** Please include both web link and phone dial-in information. Our built-in Zoom + Google Workspace integration should make it trivial to add a Zoom link to every calendar invitation.
 
--   **Turn on video by default.** Seeing each others' faces is important, because it directly [fosters empathy](https://hbr.org/2013/12/the-focused-leader). 
+-   **Turn on video by default.** Seeing each others' faces is important, because it directly [fosters empathy](https://hbr.org/2013/12/the-focused-leader).
 
 -   **Use one camera per person.** Even if you're in the same office as some of the other participants, try to use separate computers/cameras. This ensures everyone's face can be seen, and helps create a consistent experience for all participants, especially those who can't be co-located.
 
@@ -26,7 +26,7 @@ We are aware after years of pandemic [Zoom fatigue](https://www.atlassian.com/bl
 
 -   **Mute yourself in Zoom when you're not speaking**. Try to use Zoom's Mute as opposed to any hardware-based mute your microphone may provide. This has the added benefit that your fellow participants will know when you're trying to speak up; they'll see you unmute yourself in the Gallery View.
 
--   **Turn off screen sharing when not actively presenting.** If you're sharing your screen, stop sharing when someone asks a question. 
+-   **Turn off screen sharing when not actively presenting.** If you're sharing your screen, stop sharing when someone asks a question.
 
 -   **Try not to interrupt; wait for a pause or for the speaker to elicit questions.** You can always ask questions in Zoom Chat, and that's a great way to get the speaker's attention.
 

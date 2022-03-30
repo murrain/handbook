@@ -1,6 +1,6 @@
 # Sprint and Project Management
 
-Aptible is a remote organization, and much of our work occurs asynchronously. Working remotely and asynchronously poses some challenges. We use our Sprint and Project Management processes to help counteract many these challenges.
+Aptible is a remote organization and much of our work occurs asynchronously. Working remotely and asynchronously poses some challenges. We use our Sprint and Project Management processes to help counteract many of these challenges.
 
 ## Why Aptible "does" Project Management
 Aptible will never build onerous or rigid sprint and project processes--it’s just not in our DNA. But, we have designed our **Aptible Sprint and Project Management (“ASPM”)** processes to help us realize some key benefits:
@@ -16,9 +16,9 @@ Aptible will never build onerous or rigid sprint and project processes--it’s j
 Beyond this, it never feels good to be unclear what is expected of you, or what you can expect your teammates to deliver. Poor project management is stressful: it makes for a less pleasing and more difficult work environment, and makes it less likely that we will achieve our mission or strategic goals.
 
 ## How the ASPM Works
-Using project management effectively requires commitment, but it shouldn’t be difficult or time consuming. We should enjoy outsized returns for just a little bit of time invested in project management. 
+Using project management effectively requires commitment, but it shouldn’t be difficult or time consuming. We should enjoy outsized returns for just a little bit of time invested in project management.
 
-With this in mind, we are continuously iterating on how we ask teams to use project management based on feedback collected via bi-weekly retros, team surveys, all hands meetings, and ad hoc discussions. 
+With this in mind, we are continuously iterating on how we ask teams to use project management based on feedback collected via bi-weekly retros, team surveys, all hands meetings, and ad hoc discussions.
 
 ### Sprint Cadence
 Aptible works on 2-3 week Sprints. Sprints generally start on Mondays and end on Fridays. Sprint dates are posted in the Iterations section of Shortcut.
@@ -51,8 +51,8 @@ These rules are what Aptible has agreed to with respect to defining and tracking
 		* A Story must be associated with a Sprint OR have a deadline or both
 		* A Story must have an owner
 		* A Story must have an Epic, unless purely operational/transitory and not clearly relevant to broader company goals
-	* **Epics** are collections of Stories that make up a broader group of work. Epics can be thought of a Projects.
-		* Examples of Epcis might be:
+	* **Epics** are collections of Stories that make up a broader group of work. Epics can be thought of as Projects.
+		* Examples of Epics might be:
 			* `Year-end customer comms`
 			* `20.04 rollout`
 			* `Any Cloud prototyping`
@@ -71,7 +71,7 @@ These rules are what Aptible has agreed to with respect to defining and tracking
 	* Teams should work together to define Stories and Epics
 	* Daily Updates: Individual Story and Epic owners are responsible for keeping status, start/end dates, comments, etc. updated.
 		** We ask for updates on In Progress work at least 1x per day
-		** It's also a good idea to at least 1x per day consider whether your work is appropriately represented in Shortcut. If it isn't, you should create additional Stories and Epics. If you are unsure, talk with your manager. 
+		** It's also a good idea to at least 1x per day consider whether your work is appropriately represented in Shortcut. If it isn't, you should create additional Stories and Epics. If you are unsure, talk with your manager.
 	* End of Sprint / Sprint Forecast
 		* If a Story is likely to remain unfinished at the end of the Sprint, and no later than 2 days before Sprint close, functional leads (or individual team members) should:
 			* Add the label `Likely Unfinished During Sprint`.
@@ -82,8 +82,8 @@ These rules are what Aptible has agreed to with respect to defining and tracking
 
 ## Project Management Guidelines
 These guidelines are just recommendations, not hard-and-fast rules. However, we believe that the closer we can align around these guidelines, the easier and more beneficial project management will be for Aptible and for each individual team member. Have a suggestion for how we can improve? Don’t be shy: open a PR or raise for discussion during our next Retro (or async via Slack).
-* Five minute rule. If something takes you more than 5 minutes, and it isn’t logged in Zendesk (e.g. a Zendesk ticket) or tracked in our CRM, there should be an associated Story or Stories in our Project Management tool. 
-	* Obviously not every 5 minute tasks deserves a Story, but this is a heuristic to evaluate when to create a Story vs. just to complete the work: ideally, any significant work would be documented and prioritized for future reflection/evaluation.
+* Five minute rule. If something takes you more than 5 minutes, and it isn’t logged in Zendesk (e.g. a Zendesk ticket) or tracked in our CRM, there should be an associated Story or Stories in our Project Management tool.
+	* Obviously not every 5 minute task deserves a Story, but this is a heuristic to evaluate when to create a Story vs. just to complete the work: ideally, any significant work would be documented and prioritized for future reflection/evaluation.
 	* For a specific controversial example: writing an email response that takes more than 5 minutes doesn’t feel especially relevant to track in a project management tool. But, if that email response is in a running thread with a customer where we are working through a topic that will require multiple rounds of followup to get to resolution, that should likely be managed through Zendesk or, if not, logged as a Story in Shortcut so we don’t lose track of the work.
 * Daily Status Updates and Comments. At least 1x per business day, you should create any new and update active existing Stories and Epics: ensure that the State for each Story and Epic is current, and leave comments addressing your progress so anyone can see and follow along.
 * Limit the use of Subtasks. Use Subtasks sparingly - default to creating separate Stories under an Epic, so each Story can have a discrete deadline. Subtasks are fine for simple items, but often it is better to create separate Stories for discoverability and flexibility to set specific deadlines, owners, etc.

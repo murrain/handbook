@@ -13,4 +13,4 @@ Though we've been able to operate with such a lean team for so long, our first f
 4. [Culture: Connecting](connecting.md)
 5. [Team Rituals](rituals.md)
 6. [Security](security.md)
-7. Diverisity, Equity, and Inclusion
+7. Diversity, Equity, and Inclusion
