@@ -25,7 +25,7 @@ Some examples of laptop configurations are:
 
 While in some cases we may provide used hardware for employees, we will not provide legacy (3+ year old hardware) and we seek to establish the above as our target configurations for all employees.
 
-Our expectation is that any difference in performance between various configurations of the new M1 machines will be negligible for most and possibly all employees. As a result, given that shipping delays have become extreme, we may in some cases strategically select different configurations based on availability. If you feel that you need a particular confugiration, or something altogether different, please discuss with your hiring manager as early as possible noting that availability and shipping estimates will need to be considered in conjunction with your planned start date.
+Our expectation is that any difference in performance between various configurations of the new M1 machines will be negligible for most and possibly all employees. As a result, given that shipping delays have become extreme, we may in some cases strategically select different configurations based on availability. If you feel that you need a particular configuration, or something altogether different, please discuss with your hiring manager as early as possible noting that availability and shipping estimates will need to be considered in conjunction with your planned start date.
 
 Regardless of laptop screen size, all employees are eligible to purchase a desktop monitor under the Newptible Budget. If you have any questions or concerns reach out to your Manager or raise in #operations in Slack for discussion.
 
@@ -39,7 +39,7 @@ Employees can take laptops to any Apple store if repair is needed. If repair tim
 ## Laptop Disposal
 If an employee is replacing their machine or is offboarding from Aptible, the employee is responsible for ensuring appropriate laptop disposal in coordination with People Ops / IT (currently: Taylor & Yujie) to wipe the laptop. All laptops must be wiped prior to disposal. There are three disposal options:
 
-**Donate**: When employees are refreshing functional laptops that are 3+ years old, we strongly encourage donation to an acceptable partner charity. We will be working to create partnerships with appropriate charities. Donation must be planned and approved by People Ops / IT (currently: Taylor & Yujie). All laptops must be wiped prior to donating.
+**Donate**: When employees are refreshing functional laptops that are 3+ years old, we strongly encourage donation to an acceptable partner charity. We will be working to create partnerships with appropriate charities. Donations must be planned and approved by People Ops / IT (currently: Taylor & Yujie). All laptops must be wiped prior to donating.
 
 **Buy back**: If an employee is offboarding with less than 1 year of tenure, the employee may elect to purchase the laptop at the current market value. Details will be provided as part of the employment termination process. All laptops must be wiped prior to purchase.
 

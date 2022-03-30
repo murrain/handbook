@@ -28,7 +28,7 @@ As soon as your laptop is set up and you have access to your Aptible inbox, loca
 These are systems every team member, unless otherwise noted, will have access to, interact with, or need to set up.
 * **15Five** - Performance management and feedback
 * **1Password** - Secure password management
-* **Amazon Business** - For purchases under the [Newptible](/hardwarebudget.md) or [Professional Development](/professional-devlopment.md) budgets
+* **Amazon Business** - For purchases under the [Newptible](/hardware-budget.md) or [Professional Development](/professional-devlopment.md) budgets
 * **Aptible** - For security trainings company-wide and for technical roles, also management of resources hosted on Aptible
 * **Confluence** - Additional internal documentation
 * **Divvy** - Credit card and expense management
@@ -37,7 +37,7 @@ These are systems every team member, unless otherwise noted, will have access to
 * **Google Workspace** - Productivity and collaboration; Gmail, G Drive, etc.
 * **Gong** - Call recording and analytics
 * **Jamf** - Device management for your Aptible MacBook and Aptible iPhone. You will accept an invite to enroll your devices but will otherwise not likely interact with Jamf frequently.
-* **Little Snitch** - Network monitoring. You will install and enter a license key to active but will otherwise not likely interact with Little Snitch frequently.
+* **Little Snitch** - Network monitoring. You will install and enter a license key to activate but will otherwise not likely interact with Little Snitch frequently.
 * **Okta** - Access management
 * **Redash** - Analytics/BI
 * **Shortcut** - Task and ticket management
@@ -75,7 +75,7 @@ Our shared goal is to complete all action items in your Onboarding Checklist by 
 
 * Watch 1-2 recent All Hands calls in [Gong](https://app.gong.io/calls?workspace-id=2632804425585962651&query-id=1992243576695063550). Decks are linked out from the event details of the bi-weekly recurring event in Google Calendar.
 
-* Watch the current product overview (on the Aptible [homepage](https://www.aptible.com/)) and new [Aptible for IaaS product demo](https://www.loom.com/share/cc572e181992499d81f77f23611e072c) to familarize with the current state and future vision of Aptible.
+* Watch the current product overview (on the Aptible [homepage](https://www.aptible.com/)) and new [Aptible for IaaS product demo](https://www.loom.com/share/cc572e181992499d81f77f23611e072c) to familiarize with the current state and future vision of Aptible.
 
 * Watch 1-2 recent customer discovery calls
 
@@ -84,7 +84,7 @@ Our shared goal is to complete all action items in your Onboarding Checklist by 
 * Watch the [Finance Brownbag](https://app.gong.io/call?id=4549731811283619078) to learn more about how Aptible operates from a financial standpoint.
 
 ##### By End of Week 2
-* Get ready for your AMA (Ask Me Anything), to occur during your first or second company-wide meeting dependent on timing of your start date. There's no need to formally prepare however People Ops (currently: Taylor & Yujie) will share a few questions with you (and sometimes a request for images) ahead of time so you can give them some thought. We've found it fun to share images with the team to enhance interactivity and when possible, get the team to guess your responses!
+* Get ready for your AMA (Ask Me Anything), to occur during your first or second company-wide meeting dependent on the timing of your start date. There's no need to formally prepare, however People Ops (currently: Taylor & Yujie) will share a few questions with you (and sometimes a request for images) ahead of time so you can give them some thought. We've found it fun to share images with the team to enhance interactivity and when possible, get the team to guess your responses!
 
 * Familiarize yourself with [Aptible Handbook](https://www.aptible.com/handbook/) and provide feedback to help us improve or better yet, submit a PR for suggested improvements directly!
 
