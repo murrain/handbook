@@ -19,7 +19,7 @@ In general, we provide all employees with the latest hardware within reason. Scr
 Some examples of laptop configurations are:
 
 * Technical / designer / engineer roles:
- - MacBook Pro 14-16" M1 Pro-Max / 10-core CPU / 16-32-core GPU / 32GB RAM / 512GB SSD
+ - MacBook Pro 16" M1 Pro / 10-core CPU / 16-core GPU / 32GB RAM / 512GB SSD
 * Non-technical roles:
  - MacBook Pro 14" M1 Pro / 10-core CPU / 14-core GPU / 16 GB RAM / 512GB SSD
 
